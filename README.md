@@ -70,6 +70,8 @@ https://opendatacommons.org/licenses/dbcl/1-0/
 - Built trend and segmentation visuals
 - Applied dashboard formatting and layout improvements
 
+---
+
 ## Key Insights
 - The business demonstrates a strong repeat customer rate of approximately 72%, indicating high customer retention and repeat purchasing behaviour.
 - Revenue is heavily concentrated among a relatively small group of high-value customers, highlighting the importance of customer retention strategies for high-value customers.
