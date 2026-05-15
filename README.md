@@ -47,6 +47,8 @@ https://opendatacommons.org/licenses/dbcl/1-0/
 ## Project Workflow
 
 ### 1. Data Cleaning
+- Inspected data structure
+- Combined worksheets representing each year into one table
 - Removed cancelled transactions
 - Removed rows containing missing customer IDs
 - Created revenue calculation field
@@ -72,8 +74,7 @@ https://opendatacommons.org/licenses/dbcl/1-0/
 - The business demonstrates a strong repeat customer rate of approximately 72%, indicating high customer retention and repeat purchasing behaviour.
 - Revenue is heavily concentrated among a relatively small group of high-value customers, highlighting the importance of customer retention strategies for VIP customers.
 - The United Kingdom generates the overwhelming majority of total revenue, suggesting that the business is strongly dependent on its domestic market despite having international customers.
-- Monthly revenue trends show clear seasonal fluctuations, with significant revenue increases toward the end of the year, likely reflecting increased holiday-season purchasing activity.
-- The customer segmentation analysis shows that most customers belong to the low-value segment, while only a small percentage generate very high revenue, illustrating a common retail revenue concentration pattern.
+- Monthly revenue trends show clear seasonal fluctuations, with significant revenue increases toward the end of the year, likely reflecting increased holiday-season purchasing activity. This can help forecast demand, prepare inventory and plan marketing.
 
 ---
 
