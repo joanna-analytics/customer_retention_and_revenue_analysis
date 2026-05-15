@@ -1,5 +1,7 @@
 # Customer Retention & Revenue Analysis
 
+---
+
 ## Project Overview
 This project analyses retail transaction data to identify customer retention patterns, revenue trends and high-value customer segments using SQL and Power BI.
 
