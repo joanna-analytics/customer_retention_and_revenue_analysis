@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyses retail transaction data to identify customer retention patterns, revenue trends and high-value customer segments using SQL and Power BI.
 
-The project focuses on transforming raw transactional retail data into meaningful business insights and presenting them through an interactive business dashboard.
+The project focuses on transforming raw transactional retail data into meaningful business insights and presenting them through a professional business dashboard.
 
 ---
 
