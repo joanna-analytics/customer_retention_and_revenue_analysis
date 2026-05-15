@@ -72,7 +72,7 @@ https://opendatacommons.org/licenses/dbcl/1-0/
 
 ## Key Insights
 - The business demonstrates a strong repeat customer rate of approximately 72%, indicating high customer retention and repeat purchasing behaviour.
-- Revenue is heavily concentrated among a relatively small group of high-value customers, highlighting the importance of customer retention strategies for VIP customers.
+- Revenue is heavily concentrated among a relatively small group of high-value customers, highlighting the importance of customer retention strategies for high-value customers.
 - The United Kingdom generates the overwhelming majority of total revenue, suggesting that the business is strongly dependent on its domestic market despite having international customers.
 - Monthly revenue trends show clear seasonal fluctuations, with significant revenue increases toward the end of the year, likely reflecting increased holiday-season purchasing activity. This can help forecast demand, prepare inventory and plan marketing.
 
