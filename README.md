@@ -48,7 +48,7 @@ https://opendatacommons.org/licenses/dbcl/1-0/
 
 ### 1. Data Cleaning
 - Inspected data structure
-- Combined worksheets representing each year into one table
+- Combined yearly transaction worksheets into a single dataset
 - Removed cancelled transactions
 - Removed rows containing missing customer IDs
 - Created revenue calculation field
