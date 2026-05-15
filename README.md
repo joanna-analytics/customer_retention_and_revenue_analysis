@@ -35,6 +35,12 @@ The project focuses on transforming raw transactional retail data into meaningfu
 
 ---
 
+## Dashboard
+
+![Dashboard Preview](customer_retention_and_revenue_analysis.png)
+
+---
+
 ## Skills Demonstrated
 - Data cleaning
 - SQL querying
@@ -43,9 +49,3 @@ The project focuses on transforming raw transactional retail data into meaningfu
 - DAX measures
 - Dashboard design
 - Business data storytelling
-
----
-
-## Dashboard Preview
-
-![Dashboard Preview](customer_retention_and_revenue_analysis.png)
